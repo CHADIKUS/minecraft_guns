@@ -6,7 +6,8 @@
    
     "overrides": [
      { "predicate": {"custom_model_data": 657234}, "model": "item/AK-47"},
-     { "predicate": {"custom_model_data": 657235}, "model": "item/AR-15"}
+     { "predicate": {"custom_model_data": 657235}, "model": "item/AR-15"},
+     { "predicate": {"custom_model_data": 657237}, "model": "item/triple-barel"}
    
     ]
    

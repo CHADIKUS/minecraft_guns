@@ -1,5 +1,7 @@
 function ccs:ar_tick
 function ccs:ak_tick
+function ccs:barel_tick
+
 
 execute as @a[nbt={SelectedItem:{id:"minecraft:snowball",tag:{grenade:1b}}},scores={grenade_out=1..}] at @s run tag @e[type=snowball,sort=nearest,limit=1] add primed_nade
 

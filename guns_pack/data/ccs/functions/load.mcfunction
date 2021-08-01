@@ -16,3 +16,6 @@ scoreboard objectives add grenade_out minecraft.used:minecraft.snowball
 scoreboard players set @a grenade_out 1
 
 #give @p snowball{display:{Name:'{"text":"grenade","color":"white","bold":true,"italic":true}',Lore:['{"text":"great against bases and people :]","color":"dark_purple"}']},HideFlags:1,CustomModelData:657236,grenade:1b} 1
+
+scoreboard objectives add barel_shot minecraft.used:minecraft.crossbow
+scoreboard players set @a barel_shot 1
