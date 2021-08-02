@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "ak_unlock": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ccs:ar_15"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ccs:give_ar"
+    }
+}
